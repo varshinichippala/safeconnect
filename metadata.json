@@ -1,0 +1,10 @@
+{
+  "name": "SafeConnect – Local Emergency Information Portal",
+  "description": "Quick information when every second matters: local emergency services, hospitals, verified alerts, disaster safety guidance, and SafeAssist AI triage.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
